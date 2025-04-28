@@ -1,0 +1,14 @@
+﻿<Window x:Class="test12.KoktelModositWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Koktél módosítása" Height="300" Width="400">
+    <Grid>
+        <TextBlock Text="Koktél neve:" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox x:Name="textBoxKoktelNev" VerticalAlignment="Top" Margin="10,40,10,0" Height="30"/>
+
+        <TextBlock Text="Válaszd ki az új összetevőket:" VerticalAlignment="Top" Margin="10,80,0,0"/>
+        <ListBox x:Name="listBoxItalok" VerticalAlignment="Top" Margin="10,110,10,0" Height="100" SelectionMode="Multiple"/>
+
+        <Button Content="Módosítás" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10" Height="30" Width="100" Click="ButtonModosit_Click"/>
+    </Grid>
+</Window>
