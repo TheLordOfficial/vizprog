@@ -1,0 +1,59 @@
+﻿<Window x:Class="test12.KoktelokWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Koktélok Listája" Height="500" Width="450"
+        Background="#FFF8E1">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Cím -->
+        <TextBlock Text="🍹 Koktélok Listája 🍹"
+                   FontSize="26"
+                   FontWeight="Bold"
+                   Foreground="#D84315"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,20"/>
+
+        <!-- Keresőmező és Keresés gomb elválasztása a szövegtől -->
+        <StackPanel Grid.Row="0" VerticalAlignment="Top" Margin="0,20,0,0">
+            <TextBlock Text="Összetevő keresés:" FontWeight="SemiBold" Foreground="#5D4037" VerticalAlignment="Center" Margin="0,0,0,10"/>
+
+            <!-- Kereső mező és gomb egy sorban -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
+                <TextBox x:Name="textBoxOsszetevok" Width="250" Height="30" BorderBrush="#FF7043" BorderThickness="1" VerticalAlignment="Center"/>
+                <Button Content="Keresés" Width="120" Height="35"
+                        Background="#FF7043" Foreground="White"
+                        FontWeight="Bold" Cursor="Hand"
+                        Margin="10,0,0,0" BorderThickness="0" VerticalAlignment="Center"
+                        Click="KeresesButton_Click">
+                    <!-- Button Click hozzárendelése -->
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Background="{TemplateBinding Background}" 
+                                                CornerRadius="10" 
+                                                BorderThickness="0">
+                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Style>
+                </Button>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Koktélok listája -->
+        <ScrollViewer Grid.Row="1" Margin="0,10,0,0">
+            <StackPanel x:Name="stackPanelKoktelok" VerticalAlignment="Top" Margin="0,10,0,10">
+                <!-- Koktélok listázása itt -->
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

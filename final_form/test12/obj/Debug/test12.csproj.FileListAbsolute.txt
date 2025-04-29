@@ -1,0 +1,42 @@
+C:\Users\Batman\source\repos\test12\test12\bin\Debug\test12.exe.config
+C:\Users\Batman\source\repos\test12\test12\bin\Debug\test12.exe
+C:\Users\Batman\source\repos\test12\test12\bin\Debug\test12.pdb
+C:\Users\Batman\source\repos\test12\test12\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Batman\source\repos\test12\test12\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.csproj.AssemblyReference.cache
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\MainWindow.baml
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\MainWindow.g.cs
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\App.g.cs
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12_MarkupCompile.cache
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.g.resources
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.Properties.Resources.resources
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.csproj.GenerateResource.cache
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.csproj.CoreCompileInputs.cache
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.csproj.Up2Date
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.exe
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\test12.pdb
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\KoktelokWindow.baml
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\KoktelokWindow.g.cs
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\KoktelModositWindow.baml
+C:\Users\Batman\source\repos\test12\test12\obj\Debug\KoktelModositWindow.g.cs
+H:\vizprog\repo\maybe V.final2\test12\test12\bin\Debug\test12.exe.config
+H:\vizprog\repo\maybe V.final2\test12\test12\bin\Debug\test12.exe
+H:\vizprog\repo\maybe V.final2\test12\test12\bin\Debug\test12.pdb
+H:\vizprog\repo\maybe V.final2\test12\test12\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\vizprog\repo\maybe V.final2\test12\test12\bin\Debug\System.Configuration.ConfigurationManager.xml
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.csproj.AssemblyReference.cache
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\KoktelModositWindow.baml
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\KoktelokWindow.baml
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\MainWindow.baml
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\KoktelModositWindow.g.cs
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\KoktelokWindow.g.cs
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\MainWindow.g.cs
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\App.g.cs
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12_MarkupCompile.cache
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.g.resources
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.Properties.Resources.resources
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.csproj.GenerateResource.cache
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.csproj.CoreCompileInputs.cache
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.csproj.Up2Date
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.exe
+H:\vizprog\repo\maybe V.final2\test12\test12\obj\Debug\test12.pdb
